@@ -10,7 +10,7 @@ A Python tool that extracts email addresses from text files using pattern matchi
 * Uses regex for pattern detection
 
 ## 🛠️ Tech Used 
-
+           
 * Python
 * Regular Expressions
 
