@@ -11,7 +11,7 @@ A Python tool that extracts email addresses from text files using pattern matchi
 
 ## 🛠️ Tech Used           
            
-* Python
+* Python                    
 * Regular Expressions
 
 ## ▶️ Run
