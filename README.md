@@ -1,5 +1,5 @@
 # 📧 Email Extractor
-
+ 
 ## 📌 Overview
 
 A Python tool that extracts email addresses from text files using pattern matching.
